@@ -7,7 +7,10 @@ Lubagl29@
 
 
 Login Page:
-<img width="50" alt="צילום מסך 2023-08-23 ב-12 51 16" src="https://github.com/luba9714/HelpAround/assets/64591949/077eab2f-03aa-40a4-b675-68b70fabbbf5">
+
+
+
+<img width="100" alt="צילום מסך 2023-08-23 ב-12 51 16" src="https://github.com/luba9714/HelpAround/assets/64591949/077eab2f-03aa-40a4-b675-68b70fabbbf5">
 
 
 
@@ -15,7 +18,8 @@ Login Page:
 Home page:
 
 
-![IMG_7359](https://github.com/luba9714/HelpAround/assets/64591949/e2a1a149-d85f-49ca-9957-1dc1164a845f)
+
+<img width="100" src="https://github.com/luba9714/HelpAround/assets/64591949/6c8b0eac-18a1-4cad-8965-1f294e2128b2">
 
 
 
